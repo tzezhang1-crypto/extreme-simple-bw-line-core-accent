@@ -1,0 +1,6 @@
+interface:
+  display_name: "極致簡單黑白線稿加核心資訊顏色標示"
+  short_description: "把教學圖像化成學生能仿畫的黑白線稿，只標示核心資訊色彩"
+  default_prompt: "使用 $extreme-simple-bw-line-core-accent，把教學內容轉成學生可仿畫的簡單黑白線稿，並只為核心資訊加低飽和色彩。"
+policy:
+  allow_implicit_invocation: true
