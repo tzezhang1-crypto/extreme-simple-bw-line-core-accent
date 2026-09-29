@@ -37,5 +37,5 @@
 
 ## 檔案
 
-- `SKILL.md)：完整使用規範。
-- `agents/openai.yaml`：OpenAI agent 設定。
+- SKILL.md：完整使用規範。
+- agents/openai.yaml：OpenAI agent 設定。
